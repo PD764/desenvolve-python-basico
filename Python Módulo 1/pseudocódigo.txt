@@ -1,7 +1,7 @@
 Solução com pseudocódigo
 
 
-Início;
+ Início;
  Leia n;
  n1 = n-1;
  n2 = 10-n;
