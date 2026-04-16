@@ -1,6 +1,5 @@
 Solução com pseudocódigo
 
-
  Início;
  Leia n;
  n1 = n-1;
